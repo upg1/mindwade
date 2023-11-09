@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "History",
+    "details": "Main anchor for historical events",
+    "level": 1,
+    "parentID": null
+  },
+  {
+    "id": 2,
+    "title": "Science",
+    "details": "Main anchor for scientific concepts",
+    "level": 1,
+    "parentID": null
+  },
+  {
+    "id": 3,
+    "title": "Ancient Civilizations",
+    "details": "Details about ancient civilizations",
+    "level": 2,
+    "parentID": 1
+  },
+  {
+    "id": 4,
+    "title": "World Wars",
+    "details": "Details about World Wars",
+    "level": 2,
+    "parentID": 1
+  },
+  {
+    "id": 5,
+    "title": "Physics",
+    "details": "Details about physics concepts",
+    "level": 2,
+    "parentID": 2
+  },
+  {
+    "id": 6,
+    "title": "Biology",
+    "details": "Details about biological concepts",
+    "level": 2,
+    "parentID": 2
+  }
+]
+
